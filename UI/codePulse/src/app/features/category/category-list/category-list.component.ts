@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { AddCategoryRequest } from '../add-category-request.model';
+import { AddCategoryRequest } from '../models/add-category-request.model';
 
 @Component({
   selector: 'app-category-list',
